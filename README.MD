@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Lautaro Fernandez *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-1 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Lautaro Fernandez
+- **Comisión:** M2025-1 
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
