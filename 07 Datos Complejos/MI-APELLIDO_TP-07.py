@@ -1,5 +1,3 @@
-# PRACTICA INTEGRADORA 2 - Gestión de Notas
-# Versión clara y simple (junior)
 
 # Diccionario de alumnos (legajo: nombre)
 alumnos = {
@@ -88,3 +86,4 @@ for fila in notasFinales:
 # Determinar mejor promedio de todos
 mejorAlumno = max(notasFinales, key=lambda x: x[1])
 print(f"\n🏆 El mejor promedio es {mejorAlumno[1]} de {mejorAlumno[0]}")
+
